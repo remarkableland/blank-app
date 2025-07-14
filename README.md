@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Close Output File
 
 A simple Streamlit app template for you to modify!
 
